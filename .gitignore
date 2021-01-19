@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+static_root/
+media/
+*.kate-swp
+build/
+*.egg-info/
+dist/
+*old
+
